@@ -9,7 +9,7 @@
 ### Trafikljus simulation på I/O shield för Nucleo-L476RG Development Board
 [Intersection](https://github.com/boxskeppet/Intersection-on-I-O-shield)
 
-Utvecklade **C** kod för en ett Nucleo kort med en I/O shield representerande en korsning med trafikljus och övergångställen. Gjort som del av kurs [IS1300](https://www.kth.se/student/kurser/kurs/IS1300) på KTH.
+Utvecklade **C** kod för ett Nucleo kort med en I/O shield representerande en korsning med trafikljus och övergångställen. Gjort som del av kurs [IS1300](https://www.kth.se/student/kurser/kurs/IS1300) på KTH.
 
 ### "Dinousaur Game" på ChipKIT Uno32
 [Game-State](https://github.com/boxskeppet/Contributions-to-ChipKIT-Dinosaur-Game/tree/main)
